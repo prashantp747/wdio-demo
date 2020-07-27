@@ -59,8 +59,8 @@ exports.config = {
     //
     capabilities: [{
         browserName: 'chrome',
-        platform: 'Windows 8.1',
-        version: '41.0',
+        platform: 'Windows 10',
+        version: 'latest',
         name: 'chrome test',
         build: BUILD_ID
     }, {
